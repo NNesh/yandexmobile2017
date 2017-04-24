@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string-array name="tab_names">
+        <item>Translate</item>
+        <item>History</item>
+        <item>Favorite</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Russian</item>
+        <item>Kazakh</item>
+        <item>Japan</item>
+        <item>Belarus</item>
+    </string-array>
+
+    <string-array name="languages_values" translatable="false">
+        <item>en</item>
+        <item>ru</item>
+        <item>kk</item>
+        <item>ja</item>
+        <item>be</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main">YaMobile2017</string>
+    <string name="translate_button_text">Translate</string>
+    <string name="translate_editview_hint">Enter text...</string>
+
+    <string name="translate_textview_from">From:</string>
+    <string name="translate_textview_to">To:</string>
+
+    <string name="translate_field_hint">The translate is here</string>
+</resources>
